@@ -6,7 +6,7 @@ O `Commerce` foi um projeto onde realizei consultas a um banco de dados **MongoD
 
 ## 🛠 Tecnologias utilizadas
 
-<img title="JavaScript" alt="JavaScript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img title="MongoDB" alt="MongoDB" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img title="JavaScript" alt="JavaScript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ## 💚 Arquivos disponibilizados pela Trybe
 
